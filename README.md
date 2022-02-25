@@ -1,16 +1,35 @@
-### Hi there 👋
+                                              CONSOLE.LOG('HOLA MUNDO!')
 
-<!--
-**Dibu05/Dibu05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy Desarrollador FullStack, con preferencias en Front-end. 👩‍💻
+Apasionado a las nuevas tecnologías y buenas practicas de desarrollo con un aprendizaje continuo para mejorar mis habilidades en el campo.!
+
+👨🏻‍💻 Skills:
+🔹HTML5, CSS3, JavaScript
+🔹PostgreSQL
+🔹GitHub, Git
+🔹React.Js 
+🔹Redux
+🔹TypeScript
+🔹 React Native
+🔹Node.Js
+🔹Express
+🔹Scrum
+
+👥Soft Skills:
+🔹Adaptable
+🔹Proactivo
+🔹Capacidad de comunicación
+🔹Organizado
+🔹Colaborador
+🔹Autodidacta
+🔹Aprendizaje Activo
+🔹Curioso
+🔹Resolución de Problemas
+🔹Trabajo en Equipo
+🔹Paciente
+🔹Metodologías agiles
+
+
+📫 Podes escribirme a mi correo (almadaagustin05@gmail.com) o por WhatsApp (+54 3855144791)
